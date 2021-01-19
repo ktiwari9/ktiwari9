@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Path Planning, SLAM, Social Media Management, Overseas education**
 
-- 📫 How to reach me **https://sites.google.com/view/kshitijtiwari/contact**
+- 📫 How to reach me **http://ktiwari9.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
