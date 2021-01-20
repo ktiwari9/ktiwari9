@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kshitij Tiwari, Ph.D.</h1>
-<h3 align="center">A passionate Robotics Researcher & Digital Marketer from India</h3>
+<h3 align="center">A passionate Robotics Researcher & Digital Marketer from India <p align="right"> <img src="https://komarev.com/ghpvc/?username=ktiwari9&label=Profile%20views&color=0e75b6&style=flat" alt="ktiwari9" /> </p></h3> 
 
 <!-- Banner   -->
 ![banner](https://media-exp1.licdn.com/dms/image/C4E16AQEigKtP7PsMNg/profile-displaybackgroundimage-shrink_350_1400/0/1595776843516?e=1616630400&v=beta&t=KRy4NEIB0fc4sWjTOUKejW_P9wqemLNWwRVLm39EsVo)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktiwari9&label=Profile%20views&color=0e75b6&style=flat" alt="ktiwari9" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktiwari9" alt="ktiwari9" /></a> </p>
 
