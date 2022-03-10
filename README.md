@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Robotics Researcher & Digital Marketer from India <p align="right"> <img src="https://komarev.com/ghpvc/?username=ktiwari9&label=Profile%20views&color=0e75b6&style=flat" alt="ktiwari9" /> </p></h3> 
 
 <!-- Banner   -->
-![banner](https://media-exp1.licdn.com/dms/image/C4E16AQEigKtP7PsMNg/profile-displaybackgroundimage-shrink_350_1400/0/1595776843516?e=1616630400&v=beta&t=KRy4NEIB0fc4sWjTOUKejW_P9wqemLNWwRVLm39EsVo)
+![banner](https://pbs.twimg.com/profile_banners/1432946354226094083/1633439140/1500x500)
 
 
 
@@ -18,13 +18,13 @@
 
 - 💬 Ask me about **Path Planning, SLAM, Social Media Management, Overseas education**
 
-- 📫 How to reach me **http://ktiwari9.github.io/**
+- 📫 How to reach me **https://kshitijtiwari.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kshitijtiwari92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.behance.net/kshitijtiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="behance" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCq2gZr6vxksz_oHnyqx1dbg " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="30" width="40" /></a> 
+<a href="https://twitter.com/kshitijtiwari92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="behance" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/KshitijTiwari " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
