@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kshitij Tiwari, Ph.D.</h1>
 <h3 align="center">A passionate Robotics Researcher & Digital Marketer from India <p align="right"> <img src="https://i.postimg.cc/dVMZybzs/Kshitij-Tiwari-Website-Social-Share-Banner.png" alt="Kshitij Tiwari is a Research Fellow specializing in mobile robots" /> </p></h3> 
 
-<!-- Banner   -->
-![banner](https://pbs.twimg.com/profile_banners/1432946354226094083/1633439140/1500x500)
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktiwari9" alt="ktiwari9" /></a> </p>
 
