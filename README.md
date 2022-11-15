@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshitij Tiwari, Ph.D.</h1>
-<h3 align="center">A passionate Robotics Researcher & Digital Marketer from India <p align="right"> <img src="https://komarev.com/ghpvc/?username=ktiwari9&label=Profile%20views&color=0e75b6&style=flat" alt="ktiwari9" /> </p></h3> 
+<h3 align="center">A passionate Robotics Researcher & Digital Marketer from India <p align="right"> <img src="https://i.postimg.cc/dVMZybzs/Kshitij-Tiwari-Website-Social-Share-Banner.png" alt="Kshitij Tiwari is a Research Fellow specializing in mobile robots" /> </p></h3> 
 
 <!-- Banner   -->
 ![banner](https://pbs.twimg.com/profile_banners/1432946354226094083/1633439140/1500x500)
